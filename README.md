@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajeshkumarg&exclude_repo=vithack2020-movelai&layout=compact&theme=dark" />
 </a>
 
-<br/><br/>
+<br/>
 
 <div align = "center">
 <i>Connect with me on </i><br>
