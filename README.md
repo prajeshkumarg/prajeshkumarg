@@ -10,6 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajeshkumarg&exclude_repo=vithack2020-movelai&layout=compact&theme=dark" />
 </a>
 
+  <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/prajeshk.png" alt="TryHackMe">
 <br/>
 
 <div align = "center">
