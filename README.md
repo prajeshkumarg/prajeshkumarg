@@ -7,7 +7,7 @@
 <br/><br/><br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajeshkumarg&exclude_repo=vithack2020-movelai&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajeshkumarg&exclude_repo=vithack2020-movelai,IWP_Quiz_Project,IWP_Project&layout=compact&theme=dark" />
 </a>
 
 
